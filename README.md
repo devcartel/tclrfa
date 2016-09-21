@@ -33,7 +33,7 @@ Download a package from:
 Version | Release Date | Windows (64-bit) | Linux (64-bit) | Windows (x86)
 :-:|:-:|:-:|:-:|:-:| 
 8.0.1.1 | 23 Jun 16 | [download](https://github.com/devcartel/tclrfa/releases/download/8.0.1.1/tclrfa8.0.1.1-win32-ix86_64.zip)  | [download](https://github.com/devcartel/tclrfa/releases/download/8.0.1.1/tclrfa8.0.1.1-linux-x86_64.zip) | -
-7.6.2.2 | 23 Jun 16 | - | - |[download](https://github.com/devcartel/tclrfa/releases/download/tclrfa7.6.2.2/tclrfa7.6.2.2-win32-ix86.zip)
+7.6.2.2 | 23 Jun 16 | - | - |[download](https://github.com/devcartel/tclrfa/releases/download/7.6.2.2/tclrfa7.6.2.2-win32-ix86.zip)
 
 Then run:
 
