@@ -32,8 +32,8 @@ Download a package from:
 
 Version | Release Date | Windows (64-bit) | Linux (64-bit) | Windows (x86)
 :-:|:-:|:-:|:-:|:-:| 
-8.0.3 | 8 Dec 16 | [download](https://github.com/devcartel/tclrfa/releases/download/8.0.3/tclrfa8.0.3-win32-ix86_64.zip)  | [download](https://github.com/devcartel/tclrfa/releases/download/8.0.3/tclrfa8.0.3-linux-x86_64.zip) | -
-7.6.4 | 8 Dec 16 | - | - |[download](https://github.com/devcartel/tclrfa/releases/download/7.6.4/tclrfa7.6.4-win32-ix86.zip)
+8.0.2 | 5 Oct 16 | [download](https://github.com/devcartel/tclrfa/releases/download/8.0.2/tclrfa8.0.2-win32-ix86_64.zip)  | [download](https://github.com/devcartel/tclrfa/releases/download/8.0.2/tclrfa8.0.2-linux-x86_64.zip) | -
+7.6.3 | 5 Oct 16 | - | - |[download](https://github.com/devcartel/tclrfa/releases/download/7.6.3/tclrfa7.6.3-win32-ix86.zip)
 
 Then run:
 
@@ -73,7 +73,6 @@ Then run:
 # CHANGELOG
 ## TclRFA 8
 8.0.3
-* 8 December 2016
 * date month year
 * Interactive provider is able to logout clients with logoutSubmit
 
@@ -140,7 +139,6 @@ Then run:
 
 ## TclRFA 7
 7.6.4
-* 8 December 2016
 * date month year
 * Interactive provider is able to logout clients with logoutSubmit
 
