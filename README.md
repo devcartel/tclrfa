@@ -32,8 +32,8 @@ Download a package from:
 
 Version | Release Date | Windows (64-bit) | Linux (64-bit) | Windows (x86)
 :-:|:-:|:-:|:-:|:-:| 
-8.0.2 | 5 Oct 16 | [download](https://github.com/devcartel/tclrfa/releases/download/8.0.2/tclrfa8.0.2-win32-ix86_64.zip)  | [download](https://github.com/devcartel/tclrfa/releases/download/8.0.2/tclrfa8.0.2-linux-x86_64.zip) | -
-7.6.3 | 5 Oct 16 | - | - |[download](https://github.com/devcartel/tclrfa/releases/download/7.6.3/tclrfa7.6.3-win32-ix86.zip)
+8.0.3 | 13 Dec 16 | [download](https://github.com/devcartel/tclrfa/releases/download/8.0.3/tclrfa8.0.3-win32-ix86_64.zip)  | [download](https://github.com/devcartel/tclrfa/releases/download/8.0.3/tclrfa8.0.3-linux-x86_64.zip) | -
+7.6.4 | 13 Dec 16 | - | - |[download](https://github.com/devcartel/tclrfa/releases/download/7.6.4/tclrfa7.6.4-win32-ix86.zip)
 
 Then run:
 
@@ -73,8 +73,10 @@ Then run:
 # CHANGELOG
 ## TclRFA 8
 8.0.3
+* 13 December 2016
 * date month year
 * Interactive provider is able to logout clients with logoutSubmit
+* Fixed a bug where NIP not closeAllSubmit when call serviceDownSubmit
 
 8.0.2
 * 5 October 2016
@@ -139,8 +141,10 @@ Then run:
 
 ## TclRFA 7
 7.6.4
+* 13 December 2016
 * date month year
 * Interactive provider is able to logout clients with logoutSubmit
+* Fixed a bug where NIP not closeAllSubmit when call serviceDownSubmit
 
 7.6.3
 * 5 October 2016
