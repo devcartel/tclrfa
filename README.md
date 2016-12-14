@@ -74,7 +74,6 @@ Then run:
 ## TclRFA 8
 8.0.3
 * 13 December 2016
-* date month year
 * Interactive provider is able to logout clients with logoutSubmit
 * Fixed a bug where NIP not closeAllSubmit when call serviceDownSubmit
 
@@ -142,7 +141,6 @@ Then run:
 ## TclRFA 7
 7.6.4
 * 13 December 2016
-* date month year
 * Interactive provider is able to logout clients with logoutSubmit
 * Fixed a bug where NIP not closeAllSubmit when call serviceDownSubmit
 
